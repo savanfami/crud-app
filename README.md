@@ -44,5 +44,5 @@ This is a CRUD (Create, Read, Update, Delete) application built using MongoDB, R
 
 ## Preview
 
-![Preview Image](Screenshot.2024.04.28.181130.jpg)
+![Alt text](Untitled%20design%20(2).png)
 
